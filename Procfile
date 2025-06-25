@@ -1,1 +1,1 @@
-web: python3 email_scraper_app.py 
+web: python3 email_scraper_app_clean.py 
